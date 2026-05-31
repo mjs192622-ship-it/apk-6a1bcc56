@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "636630779971",
+    "project_id": "bp-admin-e5713",
+    "storage_bucket": "bp-admin-e5713.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:636630779971:android:9028ad5b0cd0d90c722cf6",
+        "android_client_info": {
+          "package_name": "com.controlpanel.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkOXiRqKvy1H_3Ri3AT8-Dx00OvQvf8SI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
