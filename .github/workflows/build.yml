@@ -34,7 +34,9 @@ jobs:
         distribution: 'temurin'
 
     - name: Setup Android SDK
-      uses: android-actions/setup-android@v3
+      uses: 
+      with:
+          cmdline-tools-version: latest
 
     - name: Setup Gradle
       uses: gradle/actions/setup-gradle@v4
